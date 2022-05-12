@@ -1,8 +1,8 @@
 <h1 align="center">
- 🚧 Este Readme ainda está em construção 🚧
+ 🚧 Este Readme está em construção 🚧
 </h1>
 
-<p align="center">Neste projeto estou desenvolvendo uma página para web de uma barbearia fictícia proposta pelo curso de HTML e CSS da forrmação Frontend da escola Alura.</p>
+<p align="center">Neste projeto estou desenvolvendo uma página para web de uma barbearia fictícia proposta pelo curso de HTML e CSS da formação Frontend da escola Alura.</p>
 
 <div align="center">
 
