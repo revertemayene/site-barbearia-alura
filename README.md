@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/barbearia-alura/)
+ [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/site-barbearia-alura/)
 
 </div> 
 
