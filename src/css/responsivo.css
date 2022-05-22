@@ -1,23 +1,95 @@
-@media screen and (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 768px) {
     /*css da página home*/
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
 
-    h1 {
+    .caixa h1 {
         text-align: center;
     }
 
-    nav {
+    .caixa img {
+        width: 100px;
+    }
+
+    .caixa nav {
         position: static;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .caixa nav a {
+        font-size: 16px;
+    } 
+    
+    .titulo-principal {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .principal {
+        padding: 20px 10px 0;
+    }
+
+    .principal .utensilios {
+        width: 80px;
+    }
+
+    .principal p {
+        font-size: 13px;
+    }
+
+    .mapa p {
+        font-size: 13px;
     }
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
 
+    .lista-beneficios {
+        padding: 10px 10px 5px;
+    }
+
+    .lista-beneficios .itens {
+        font-size: 15px;
+    }
+
     /*css da página produtos*/
+    .produtos {
+        width: 250px;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+        gap: 15px;               
+    }
+
+    .produtos li {
+        width: auto;
+    }
     
+    .produtos h2 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .produtos li:hover h2 {
+        font-size: 22px;
+    }
+
+    .produto-descricao {
+        font-size: 18px;
+    }
+
+    .produto-preco {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .produtos li img {
+        width: 50px;
+    }
     /*css da página contato*/
     
     
