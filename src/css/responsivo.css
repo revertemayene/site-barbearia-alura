@@ -35,11 +35,7 @@
         width: 80px;
     }
 
-    .principal p {
-        font-size: 13px;
-    }
-
-    .mapa p {
+    .principal p, .mapa p {
         font-size: 13px;
     }
 
@@ -68,9 +64,8 @@
         width: auto;
     }
     
-    .produtos h2 {
+    .produtos h2, .produto-preco {
         font-size: 20px;
-        font-weight: bold;
     }
 
     .produtos li:hover h2 {
@@ -81,16 +76,21 @@
         font-size: 18px;
     }
 
-    .produto-preco {
-        font-size: 20px;
-        font-weight: bold;
-        margin-top: 10px;
-    }
-
     .produtos li img {
         width: 50px;
     }
     /*css da página contato*/
-    
-    
+    form {
+        width: 100%;
+        margin: 40px 30px;
+    }
+
+    form label, form legend {
+        font-size: 15px;        
+    }
+
+    .enviar {
+        width: 100%;
+        font-size: 16px;
+    }  
 }
