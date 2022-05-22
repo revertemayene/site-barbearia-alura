@@ -79,9 +79,10 @@
     .produtos li img {
         width: 50px;
     }
+
     /*css da página contato*/
     form {
-        width: 100%;
+        width: 90%;
         margin: 40px 30px;
     }
 
@@ -90,7 +91,13 @@
     }
 
     .enviar {
-        width: 100%;
+        display: block;
+        margin: 0 auto;
+        width: 50%;
         font-size: 16px;
     }  
+
+    table {
+        margin: 40px auto;        
+    }
 }
