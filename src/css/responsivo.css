@@ -81,9 +81,12 @@
     }
 
     /*css da página contato*/
-    form {
+    form {        
+        margin: 30px;
+    }
+
+    .input-padrao {
         width: 90%;
-        margin: 40px 30px;
     }
 
     form label, form legend {
