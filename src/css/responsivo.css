@@ -51,6 +51,10 @@
         font-size: 15px;
     }
 
+    .video {
+        width: 350px;
+    }
+
     /*css da página produtos*/
     .produtos {
         width: 250px;
